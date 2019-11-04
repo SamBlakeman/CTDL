@@ -1,6 +1,6 @@
 # A Complementary Learning Systems Approach to Temporal Difference Learning
 
-This repo contains the code associated with the paper 'A Complementary Learning Systems Approach to Temporal Difference Learning' (Blakeman and Mareschal, 2019). The paper can be found at the following link: 
+This repo contains the code associated with the paper 'A Complementary Learning Systems Approach to Temporal Difference Learning' (Blakeman and Mareschal, 2020). The paper can be found at the following link: 
 
 https://www.sciencedirect.com/science/article/pii/S0893608019303338?via%3Dihub
 
